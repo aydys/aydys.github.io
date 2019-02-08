@@ -1483,10 +1483,6 @@ body {
     transform: translate(-50%);
 }
 
-.speaker__pic-inner img {
-    margin: 0 auto;
-}
-
 @media (max-width: 479.98px) {
     .speaker__pic-inner {
         top: 65%;
