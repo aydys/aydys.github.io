@@ -1483,7 +1483,7 @@ body {
     transform: translate(-50%);
 }
 
-.speaker__pic-icon {
+.speaker__pic-inner img {
     margin: 0 auto;
 }
 
