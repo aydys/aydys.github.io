@@ -11,7 +11,7 @@ function addLi(targetUl) {
         li = document.createElement('li'),
         textNode = document.createTextNode(inputText + ' '),
         removeButton = document.createElement('button');
-    //document.querySelector('#text').value = '';
+    document.querySelector('#text').value = '';
 
     if (inputText.split(' ').join('').length === 0) {
         alert('no input');
